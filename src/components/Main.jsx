@@ -16,8 +16,8 @@ export default function Main() {
             </a>
           </button>
         </div>
-        <img className="light-img" src="../../img/lighting.svg" alt="" />
-        <img className="main-img" src="../../img/hero-bg.svg" alt="" />
+        <img className="light-img" src="../assects/lighting.svg" alt="" />
+        <img className="main-img" src="../assects/hero-bg.svg" alt="" />
       </div>
     </main>
   );
