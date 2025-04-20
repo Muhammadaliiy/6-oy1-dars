@@ -11,7 +11,9 @@ export default function Main() {
             able to make your first sketch after the first lesson.
           </p>
           <button className="getBtn">
-            <a className="getBtnTitile" href="#">Get started</a>
+            <a className="getBtnTitile" href="#">
+              Get started
+            </a>
           </button>
         </div>
         <img className="light-img" src="../../img/lighting.svg" alt="" />
