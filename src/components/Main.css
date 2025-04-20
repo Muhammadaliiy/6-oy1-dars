@@ -1,0 +1,63 @@
+.main {
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+  max-width: 1342px;
+  margin: auto;
+  left: auto;
+  right: auto;
+  display: flex;
+  top: 175px;
+  justify-content: space-between;
+}
+
+.section1 {
+  top: 226px;
+  display: flex;
+  flex-direction: column;
+
+  gap: 5px;
+}
+
+.title {
+  width: 100%;
+  max-width: 386px;
+  height: 240px;
+  align-items: start;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 80px;
+  text-align: start;
+}
+
+.text-content {
+  width: 100%;
+  max-width: 526px;
+  height: 108px;
+  text-align: start;
+  font-weight: 400;
+  font-size: 24px;
+  color: #8f95a5;
+}
+
+.light-img {
+  top: 318px;
+}
+
+.getBtn {
+  width: 100%;
+  max-width: 438px;
+  height: 118px;
+  border-radius: 15px;
+  background-color: #263238;
+}
+
+.getBtnTitile {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 100%;
+}
